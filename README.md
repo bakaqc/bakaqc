@@ -1,18 +1,16 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-<br/>
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quoc+Chuong!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Quoc+Chuong!;"/>
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="85">&nbsp;
 </h1>
 
 <h2 align="center">You may delay, but time will not.</h2>
-
-
+<br/>
 
 <br/>
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<!--<img align="right" alt="Coding" width="500" height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">-->
 <h2> About Me </h2>
-<div align="left">
-    
+
 - 🎓 I'm a student at **FPT University Quy Nhơn AI Campus**.
  
 - 🔭 I’m currently learning **Java, React, Node.js**
@@ -20,10 +18,11 @@
 - ❤️ I'm passionate about:
   - 🪐 Operating Systems (Windows)
   - 🖥️ Website Developer
-</div>
 <br/>
 
-<h2> 👽 Where to find me </h2>
+<br/>
+<br/>
+<h2> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> Where to find me </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br/>
