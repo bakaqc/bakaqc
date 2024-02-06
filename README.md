@@ -10,6 +10,7 @@
 <br/>
 <h2> About Me </h2>
 <div align="left">
+    
 - 🎓 I'm a student at **FPT University Quy Nhơn AI Campus**.
  
 - 🔭 I’m currently learning **Java, React, Node.js**
