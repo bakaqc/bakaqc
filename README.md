@@ -8,7 +8,7 @@
 
 
 
-### About Me
+<h2> About Me </h2>
 
 <div align="left">
  
@@ -25,7 +25,7 @@
  
 <br/>
 
-## 👽 Where to find me
+<h2> 👽 Where to find me </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
@@ -45,7 +45,7 @@
 
 <br/>
 
-## ⚒️ Languages-Frameworks-Tools
+<h2> ⚒️ Languages-Frameworks-Tools </h2>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
@@ -68,22 +68,30 @@
 </div>
 <br/>
 
-## 📈 User Statistics
+<br/>
+
+<h2> 📈 User Statistics </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
 <table>
   <tbody>
     <tr>
-      <td>
-                <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc">
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc&theme=dracula"/>
         </a>
-                <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&">
+      </th>
+      <th>
+        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&theme=dracula"/>
         </a>
-      </td>
+      </th>
     </tr>
   </tbody>
+</table>
+
+<table>
   <tbody>
     <tr>
       <td>
@@ -93,30 +101,6 @@
       </td>
     </tr>
   </tbody>
-<!--   <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=bakaqc">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=bakaqc&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody> -->
 </table>
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bakaqc">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bakaqc&theme=dracula"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bakaqc">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bakaqc&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+</div>
+<br/>
