@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Quoc+Chuong!;"/>
     <img src="img/pikachu_hello.gif" width="85">&nbsp;
 </h1>
-
 <h2 align="center">You may delay, but time will not.</h2>
 <br/>
 
+
+
 <br/>
 <img align="right" alt="Coding" width="440" height="285" src="img/mario_banner.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakaqc&label=Profile%20views&color=0e75b6&style=flat" alt="bakaqc" /> </p>
-<h2> About Me </h2>
+<h1> About Me </h1>
 
 - 🎓 I'm a student at **FPT University Quy Nhơn AI Campus**.
  
@@ -21,11 +21,10 @@
   - 🖥️ Website Developer
 <br/>
 
-<br/>
-<br/>
-<h2> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> Where to find me </h2>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br/>
+<h1> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> Where to find me </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
   <a href="https://github.com/bakaqc" target="_blank">
@@ -45,9 +44,7 @@
 
 
 <br/>
-
-<h2> ⚒️ Languages-Frameworks-Tools </h2>
-
+<h1> ⚒️ Languages - Frameworks - Tools </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
@@ -58,9 +55,7 @@
 
 
 <br/>
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32px" height="25px"> GitHub Stats
-
+<h1> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32px" height="25px"> GitHub Stats </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align=center>
@@ -69,39 +64,7 @@
 </div>
 <br/>
 
-<br/>
 
-<h2> 📈 User Statistics </h2>
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<div align="center">
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakaqc">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakaqc&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br/>
