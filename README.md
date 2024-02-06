@@ -25,10 +25,10 @@
 
 <br/>
 <div align="center">
-  <a href="https://www.facebook.com/dqchuongbk" target="blank">
+  <a href="https://www.facebook.com/dqchuongbk" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/bakaqc" target="blank">
+  <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
   <a href="quocchuong2609@gmail.com" target="top">
