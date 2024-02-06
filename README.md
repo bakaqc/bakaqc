@@ -70,37 +70,5 @@
 
 <br/>
 
-<h2> 📈 User Statistics </h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<div align="center">
-<table>
-  <tbody>
-    <tr>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bakaqc&theme=dracula"/>
-        </a>
-      </th>
-      <th>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bakaqc&theme=dracula"/>
-        </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakaqc">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bakaqc&theme=dracula"/>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-<br/>
