@@ -23,7 +23,7 @@
 
 
 <br/>
-<h1> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/> Where to find me </h1>
+<h1> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" height="35"/> Where to find me </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
@@ -44,7 +44,7 @@
 
 
 <br/>
-<h1> <img src="img/tool_animated.gif" width="30" height="30"/> Languages - Frameworks - Tools </h1>
+<h1> <img src="img/tool_animated.gif" width="35" height="35"/> Languages - Frameworks - Tools </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
@@ -55,7 +55,7 @@
 
 
 <br/>
-<h1> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="32px" height="25px"> GitHub Stats </h1>
+<h1> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px"> GitHub Stats </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align=center>
