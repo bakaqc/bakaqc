@@ -28,6 +28,9 @@
 
 <br/>
 <div align="center">
+  <a href="https://github.com/bakaqc" target="_blank">
+    <img src="https://assets-v2.lottiefiles.com/a/f62481a4-1172-11ee-aa7c-232f008dfb14/Sl4fTVnhQL.gif" width="100">
+  </a>
   <a href="https://www.facebook.com/dqchuongbk" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
   </a>
