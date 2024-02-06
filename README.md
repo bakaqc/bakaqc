@@ -23,7 +23,7 @@
 
 
 <br/>
-<h1> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" height="35"/> Where to find me </h1>
+<h1> <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="35" height="35"/> Connect with me </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br/>
 <div align="center">
