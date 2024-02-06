@@ -17,9 +17,8 @@
 - 🔭 I’m currently learning **Java, React, Node.js**
 
 - ❤️ I'm passionate about:
-  - 🪐 Operating Systems (Windows & Linux)
+  - 🪐 Operating Systems (Windows)
   - 🖥️ Website Developer
-  - 📝 Writeups and Documenting
 
 </div>
  
