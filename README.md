@@ -1,10 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=bakaqc.bakaqc" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<br/>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Quoc+Chuong!;" />
 </h1>
 
 <h2 align="center">You may delay, but time will not.</h2>
+
 
 
 <br/>
@@ -27,13 +29,13 @@
 <br/>
 <div align="center">
   <a href="https://www.facebook.com/dqchuongbk" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100">
   </a>
   <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
-  <a href="quocchuong2609@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="https://discord.gg/6MyfJvTe" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
   </a>
 </div>
 <br/>
