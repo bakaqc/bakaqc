@@ -20,31 +20,33 @@
 
  </div>
  
-<div align="center"> 
-  <a href="quocchuong2609@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+<hr/>
+<h2 align="center">👽 Where to find me 👽</h2>
+<br/>
+<div align="center">
+  <a href="https://www.facebook.com/dqchuongbk" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/bakaqc" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
   </a>
-   <a href="https://www.facebook.com/dqchuongbk" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-  </a> 
+  <a href="mailto:quocchuong2609@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
 </div>
+<br/>
 
- <hr/>
- 
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,c,java,mysql" /><br>
 </div>
-
 <br/>
+
 <!--
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -55,14 +57,13 @@
 -->
 
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bakaqc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bakaqc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bakaqc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bakaqc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bakaqc&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
 
 <br/><br/>
