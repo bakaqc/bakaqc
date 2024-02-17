@@ -67,5 +67,13 @@
 -->
 
 <br/>
+<h1> <!--<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px -->🐍 My Contributions </h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align=center>
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
+</div>
+<br/>
+
+<br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
