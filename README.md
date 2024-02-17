@@ -54,6 +54,7 @@
 <br/>
 
 
+<!--
 <br/>
 <h1> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35px" height="35px"> GitHub Stats </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -63,7 +64,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bakaqc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 <br/>
-
+-->
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
