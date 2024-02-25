@@ -25,7 +25,6 @@
         <img align="center" src="img/donate.png" height="50" width="210" alt="Donate to Quoc Chuong on Ko-fi" />
     </a>
 </div>
-<br/>
 
 <br/>
 <h1> <img src="img/connect.gif" width="40" height="40"/> Connect with me </h1>
@@ -57,19 +56,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,c,java,mysql" /><br>
 </div>
 <br/>
-
-
-<!--
-<br/>
-<h1> <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px" height="40px"> GitHub Stats </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br/>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bakaqc&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bakaqc&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-</div>
-<br/>
--->
 
 <br/>
 <h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
