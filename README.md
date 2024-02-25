@@ -28,7 +28,7 @@
 
 <br/>
 <h1> <img src="img/connect.gif" width="40" height="40"/> Connect with me </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="img/hr.gif">
 <br/>
 <div align="center">
   <a href="https://github.com/bakaqc" target="_blank">
@@ -49,7 +49,7 @@
 
 <br/>
 <h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks - Tools </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="img/hr.gif">
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
@@ -59,12 +59,12 @@
 
 <br/>
 <h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="img/hr.gif">
 <div align=center>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
 </div>
 <br/>
 
 <br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="img/hr.gif">
 
