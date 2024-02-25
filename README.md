@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!;+I'm+Quoc+Chuong!;"/>
+    <img src="img/intro.svg"/>
     <img src="img/pikachu_hello.gif" width="85">&nbsp;
 </h1>
 <h2 align="center">You may delay, but time will not.</h2>
