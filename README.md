@@ -44,7 +44,6 @@
     <img src="img/discord.gif" width="100">
   </a>
 </div>
-<br/>
 
 
 <br/>
@@ -55,7 +54,7 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,c,java,mysql" /><br>
 </div>
-<br/>
+
 
 <br/>
 <h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
@@ -63,7 +62,7 @@
 <div align=center>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
 </div>
-<br/>
+
 
 <br/>
 <img src="img/hr.gif">
