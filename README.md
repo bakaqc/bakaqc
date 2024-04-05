@@ -21,9 +21,6 @@
       <a href="https://ko-fi.com/bakaqc" target="_blank" rel="noreferrer">
           <img align="center" src="img/donate.png" height="50" width="210" alt="Donate to Quoc Chuong on Ko-fi" />
       </a>
-      <a href="https://ko-fi.com/bakaqc" target="_blank" rel="noreferrer">
-          <img align="center" src="img/portfolio.png" height="50" width="210" alt="Quoc Chuong Portfolio" />
-      </a>
   </div>
 
 <br/>
