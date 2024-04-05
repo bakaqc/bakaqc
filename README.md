@@ -1,6 +1,5 @@
 <h1 align="center">
     <img src="img/intro.svg"/>
-   <!-- <img src="img/pikachu_hello.gif" width="85">&nbsp; -->
 </h1>
 <h2 align="center">You may delay, but time will not.</h2>
 <br/>
@@ -22,37 +21,27 @@
       <a href="https://ko-fi.com/bakaqc" target="_blank" rel="noreferrer">
           <img align="center" src="img/donate.png" height="50" width="210" alt="Donate to Quoc Chuong on Ko-fi" />
       </a>
+      <a href="https://ko-fi.com/bakaqc" target="_blank" rel="noreferrer">
+          <img align="center" src="img/portfolio.png" height="50" width="210" alt="Quoc Chuong Portfolio" />
+      </a>
   </div>
 
 <br/>
 <h1> <img src="img/connect.gif" width="40" height="40"/> Connect with me </h1>
-<!-- <img src="img/hr.gif">-->
+
 <br/>
 <div align="center">
-  <a href="https://bakaqc.github.io" target="_blank">
-    <svg width="100" height="100">
-      <defs>
-        <clipPath id="circleView">
-          <circle cx="50" cy="50" r="50"/>
-        </clipPath>
-      </defs>
-      <image width="100" height="100" xlink:href="img/portfolio.gif" clip-path="url(#circleView)"/>
-    </svg>
-  </a>
   <a href="https://www.facebook.com/dqchuongbk" target="_blank">
     <img src="img/facebook.gif" width="100">
   </a>
   <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
     <img src="img/linkedin.gif" width="100">
   </a>
-  <a href="https://discord.gg/6MyfJvTe" target="_blank">
-    <img src="img/discord.gif" width="100">
-  </a>
 </div>
 
 <br/>
 <h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks - Tools </h1>
-<!-- <img src="img/hr.gif">-->
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
@@ -61,7 +50,7 @@
 
 <br/>
 <h1> <img src="img/clock.gif" width="40px" height="40px"> My Contributions </h1>
-<!-- <img src="img/hr.gif">-->
+
 <div align=center>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
 </div>
