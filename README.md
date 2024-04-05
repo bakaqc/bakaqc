@@ -17,9 +17,10 @@
   - 🪐 Operating Systems (Windows)
   - 🖥️ Website Developer
   <br/>
+  <br/>
   <div align="center">
       <a href="https://bakaqc.github.io" target="_blank" rel="noreferrer">
-          <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="50" width="210" alt="Quoc Chuong Portfolio" />
+          <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="50" width="210" target="_blank" alt="Quoc Chuong Portfolio" />
       </a>
   </div>
 
