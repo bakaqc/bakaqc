@@ -35,6 +35,9 @@
   <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
     <img src="img/linkedin.gif" width="100">
   </a>
+  <a href="https://discord.gg/uGEvmrqD" target="_blank">
+    <img src="img/discord.gif" width="100">
+  </a>
 </div>
 
 <br/>
