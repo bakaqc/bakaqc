@@ -41,12 +41,13 @@
 </div>
 
 <br/>
-<h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks - Tools </h1>
+<h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks & Libraries - Tools </h1>
 
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,hibernate,maven,react,redux,vite,ts,bootstrap,html,css,tailwind" />
-    <img src="https://skillicons.dev/icons?i=nodejs,c,mysql,docker,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=java,javascript,ts,c,html,css" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,redux,hibernate,bootstrap,tailwind,nodejs,express,mongo,mysql" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=maven,vite,yarn,docker,vscode,github,git,figma" /><br>
 </div>
 
 <br/>
