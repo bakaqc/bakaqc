@@ -11,7 +11,7 @@
 
 - 🎓 I'm a student at **FPT University Quy Nhơn AI Campus**.
 
-- 🔭 I’m currently learning **Java, React, Node.js**
+- 🔭 I’m currently learning **React, Node.js**
 
 - ❤️ I'm passionate about:
   - 🪐 Operating Systems (Windows)
