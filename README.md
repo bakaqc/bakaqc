@@ -46,7 +46,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,ts,c,html,css" /><br/><br/>
-    <img src="https://skillicons.dev/icons?i=react,redux,hibernate,bootstrap,tailwind,nodejs,express,nestjs,mongo,prisma,mysql" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,redux,hibernate,bootstrap,nextjs,tailwind,nodejs,express,nestjs,mongo,prisma,mysql" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=maven,vite,yarn,npm,pnpm,docker,vscode,github,git,androidstudio,arch,linux,figma" /><br>
 </div>
 
