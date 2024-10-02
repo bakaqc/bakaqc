@@ -25,22 +25,6 @@
 </div>
 
 <br/>
-<h1> <img src="img/connect.gif" width="40" height="40"/> Connect with me </h1>
-
-<br/>
-<div align="center">
-  <a href="https://www.facebook.com/dqchuongbk" target="_blank">
-    <img src="img/facebook.gif" width="100">
-  </a>
-  <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
-    <img src="img/linkedin.gif" width="100">
-  </a>
-  <a href="https://discord.gg/uGEvmrqD" target="_blank">
-    <img src="img/discord.gif" width="100">
-  </a>
-</div>
-
-<br/>
 <h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks & Libraries - Tools </h1>
 
 <br/>
@@ -55,6 +39,22 @@
 
 <div align=center>
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bakaqc/bakaqc/output/github-contribution-grid-snake.svg" />
+</div>
+
+<br/>
+<h1> <img src="img/connect.gif" width="40" height="40"/> Connect with me </h1>
+
+<br/>
+<div align="center">
+  <a href="https://www.facebook.com/dqchuongbk" target="_blank">
+    <img src="img/facebook.gif" width="100">
+  </a>
+  <a href="https://www.linkedin.com/in/bakaqc" target="_blank">
+    <img src="img/linkedin.gif" width="100">
+  </a>
+  <a href="https://discord.gg/uGEvmrqD" target="_blank">
+    <img src="img/discord.gif" width="100">
+  </a>
 </div>
 
 <br/>
