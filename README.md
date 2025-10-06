@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,ts,c,html,pug,css,sass,kotlin" /><br/><br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,hibernate,bootstrap,tailwind,nodejs,express,nestjs,prisma,mongo,mysql,postgresql" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,hibernate,bootstrap,tailwind,nodejs,express,nestjs,graphql,prisma,mongo,mysql,postgresql" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=maven,vite,yarn,npm,pnpm,docker,firebase,supabase,postman,vscode,github,git,azure,androidstudio,figma" /><br>
 </div>
 
