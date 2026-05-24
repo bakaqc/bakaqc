@@ -7,22 +7,16 @@
 <br/>
 <img align="right" alt="Coding" width="440" height="285" src="img/mario_banner.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakaqc&label=Profile%20views&color=0e75b6&style=flat" alt="bakaqc" /> </p>
+
 <h1> About Me </h1>
 
-- 🎓 I'm a student at **FPT University Quy Nhơn AI Campus**.
+- 🎓 **Software Engineer**, graduated from **FPT University Quy Nhơn AI Campus**.
 
-- 🔭 I’m currently learning **Backend NodeJS**
+- 💼 **Tech Officer at WeCare Group** — building internal accounting & supply-chain automation on the Microsoft Power Platform + Azure (6+ months).
 
-- ❤️ I'm passionate about:
-  - 🪐 Operating Systems (Windows)
-  - 🖥️ Website Developer
+- 🔭 Currently going deeper into **Backend Node.js**, **Azure Functions**, and **Microsoft Dataverse**.
+
 <br/>
-<br/>
-<div align="center">
-    <a href="https://bakaqc.github.io" target="_blank" rel="noreferrer">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="50" width="210" target="_blank" alt="Quoc Chuong Portfolio" />
-    </a>
-</div>
 
 <br/>
 <h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks & Libraries - Tools </h1>
@@ -32,6 +26,24 @@
     <img src="https://skillicons.dev/icons?i=java,javascript,ts,c,html,pug,css,sass,kotlin" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,hibernate,bootstrap,tailwind,nodejs,express,nestjs,graphql,prisma,mongo,mysql,postgresql" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=maven,vite,yarn,npm,pnpm,docker,firebase,supabase,postman,vscode,github,git,azure,androidstudio,figma" /><br>
+</div>
+
+<br/>
+<h3 align="center">🏢 Work Stack · Microsoft Power Platform & Azure</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Dataverse-002050?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse" />
+  <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" alt="Azure Functions" />
+  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure AI" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/MSAL-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="MSAL" />
+  <img src="https://img.shields.io/badge/Fluent%20UI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Fluent UI" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/ReactFlow-FF0072?style=for-the-badge&logo=react&logoColor=white" alt="ReactFlow" />
+  <img src="https://img.shields.io/badge/FAST%20Accounting-1B6EC2?style=for-the-badge&logo=bookstack&logoColor=white" alt="FAST" />
+  <img src="https://img.shields.io/badge/MISA-D72D29?style=for-the-badge&logo=files&logoColor=white" alt="MISA" />
 </div>
 
 <br/>
