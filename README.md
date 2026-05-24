@@ -14,7 +14,7 @@
 
 - 💼 **Tech Officer at WeCare Group** — building internal accounting & supply-chain automation on the Microsoft Power Platform + Azure (6+ months).
 
-- 🔭 Currently going deeper into **Backend Node.js**, **Azure Functions**, and **Microsoft Dataverse**.
+- 🔭 Currently going deeper into **Backend Node.js**.
 
 <br/>
 
