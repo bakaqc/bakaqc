@@ -16,7 +16,13 @@
 
 - 🔭 Currently going deeper into **Backend Node.js**.
 
-<br/>
+<br clear="all"/>
+
+<div align="center">
+  <a href="https://bakaqc.github.io/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logoColor=white" alt="Portfolio" height="32" />
+  </a>
+</div>
 
 <br/>
 <h1> <img src="img/tool_animated.gif" width="40" height="40"/> Languages - Frameworks & Libraries - Tools </h1>
