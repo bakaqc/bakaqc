@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://bakaqc.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20My%20Portfolio-00C7B7?style=for-the-badge&logoColor=white" alt="Portfolio" height="32" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20Visit%20My%20Portfolio-FFD43B?style=for-the-badge&logoColor=black" alt="Portfolio" height="32" />
   </a>
 </div>
 
