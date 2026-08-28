@@ -10,11 +10,11 @@
 
 <h1> About Me </h1>
 
-- 🎓 **Software Engineer**, graduated from **FPT University Quy Nhơn AI Campus**.
+- 🎓 **Full Stack Developer**, graduated from **FPT University Quy Nhơn AI Campus**.
 
-- 💼 **Tech Officer at WeCare Group** — building internal accounting & supply-chain automation on the Microsoft Power Platform + Azure (6+ months).
+- 💼 **Tech Officer at WeCare Group** — building internal React apps and the TypeScript services behind them, on Microsoft Power Platform + Azure.
 
-- 🔭 Currently going deeper into **Backend Node.js**.
+- 🔭 Currently going deeper into **full stack product work** — React, Node.js and third-party integrations.
 
 <br clear="all"/>
 
@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,ts,c,html,pug,css,sass,kotlin" /><br/><br/>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,hibernate,bootstrap,tailwind,nodejs,express,nestjs,graphql,prisma,mongo,mysql,postgresql" /><br/><br/>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,reactnative,redux,hibernate,tailwind,nodejs,express,nestjs,graphql,prisma,mongo,mysql,postgresql,redis" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=maven,vite,yarn,npm,pnpm,docker,firebase,supabase,postman,vscode,github,git,azure,androidstudio,figma" /><br>
 </div>
 
